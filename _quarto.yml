@@ -3,20 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "data-science-portfolio"
+  title: "Melissa May"
   navbar:
-    left:
+    background: "#2C5F2D"
+    foreground: white
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+  page-footer:
+    background: light
+    left: Created and maintained by Melissa May.
+    right: Built with GitHub pages and Quarto.
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: United
     toc: true
+    page-layout: full
 
 editor: visual
 

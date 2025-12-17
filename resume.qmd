@@ -1,0 +1,149 @@
+---
+title: "Resume"
+format: html
+---
+
+## Melissa May's Resume
+
+## Contact Information
+
+-   Email: [melmay\@colostate.edu](mailto:melmay@colostate.edu)
+-   LinkedIn: [linkedin.com/in/mel-may/](https://www.linkedin.com/in/mel-may/)
+-   GitHub: [github.com/melissanmay](https://github.com/melissanmay)
+
+------------------------------------------------------------------------
+
+## Education
+
+**Colorado State University** \| Fort Collins, CO
+
+*Bachelor of Science, Ecosystem Science and Sustainability* \| December 2025\
+Minor: Political Science
+
+-   Named to Warner College of Natural Resources Dean's List Fall 2023, Spring 2024, Spring 2025
+-   Member of Xi Sigma Pi Natural Resources Honor Society, Officer (Spring 2024 – Present)
+
+**Front Range Community College** \| Fort Collins, CO
+
+*Associate of Arts* \| May 2023 \| 4.0 GPA
+
+-   Named to FRCC President's List of Honor Students Fall 2022 and Spring 2023
+
+------------------------------------------------------------------------
+
+## Technical Skills
+
+**Data Science & Programming**
+
+-   Advanced R programming (tidyverse, ggplot2, rstatix, plotly)
+-   Member of Xi Sigma Pi Natural Resources Honor Society, Officer (Spring 2024 – Present)
+-   Statistical analysis (t-tests, ANOVA, regression modeling, power analysis)
+-   API integration and data acquisition (httr, jsonlite, dataRetrieval)
+-   Version control and collaboration (Git, GitHub)
+-   Reproducible research workflows (R Markdown, Quarto)
+
+**Geospatial Analysis**
+
+-   ArcGIS Pro spatial analysis and cartographic design
+-   Raster analysis and multi-criteria habitat modeling
+-   Buffer analysis and proximity modeling
+-   Esri ArcGIS Online and Story Maps development
+-   Spatial data management and geodatabase operations
+
+**Data Management & Visualization**
+
+-   Database management and SQL queries (DBeaver, AirTable)
+-   Data visualization and interactive graphics
+-   Large-scale ecological dataset management
+-   Field data collection and processing protocols
+
+**Communication & Collaboration**
+
+-   Scientific writing and technical documentation
+-   Public communication and stakeholder engagement
+-   Social media content strategy
+-   Website development and content management
+
+------------------------------------------------------------------------
+
+## Professional Experience
+
+**Natural Resource Ecology Laboratory** \| Fort Collins, CO\
+*Site Content Manager/Communications Coordinator* \| October 2023 - Present
+
+-   Develop website content highlighting research projects and scientists, driving engagement with diverse audiences
+-   Manage social media platforms across multiple channels to boost laboratory visibility and public engagement
+-   Collaborate with CSU departments and statewide organizations to amplify scientific research content
+-   Maintain and update existing website content, ensuring accurate, current information delivery
+
+**Nachappa Lab – Department of Agricultural Biology** \| Fort Collins, CO\
+*Undergraduate Research Assistant* \| July 2025 - Present
+
+-   Conduct plant-insect interaction research, ensuring adherence to established protocols and quality standards
+-   Maintain living insect colonies and assist with greenhouse and laboratory research operations
+-   Perform molecular biology techniques including DNA/RNA extraction and PCR with precise documentation
+-   Collect, record, and organize experimental data using standardized protocols
+
+**Xi Sigma Pi Natural Resources Honor Society** \| Fort Collins, CO\
+*Honor Society Officer* \| May 2024 - Present
+
+-   Organize networking events connecting students with environmental professionals and policymakers
+-   Lead community service initiatives focused on local sustainability challenges
+-   Coordinate with faculty to develop academic and professional development programming
+-   Represent the organization at campus sustainability events and community forums
+
+------------------------------------------------------------------------
+
+## Research & Project Experience
+
+**Skills for Undergraduate Participation in Ecological Research (SUPER)** \| Fort Collins, CO\
+*Student Mentee and Researcher* \| August 2024 - May 2025
+
+-   Conducted independent research examining participation trends across 1,400+ citizen science projects on CitSci.org
+-   Managed and queried large relational databases using SQL-based tools (DBeaver)
+-   Created research poster and presented findings at NR Days and CSU CURC Showcase
+-   Collaborated with Dr. Greg Newman to refine methodology and strengthen scientific communication skills
+
+**CSU Center for Participatory Science Initiative** \| Fort Collins, CO\
+*ESS440 Founding Student Member* \| January 2025 - May 2025
+
+-   Collaborated on strategic development of CSU's Center for Participatory Science through capstone project
+-   Conducted research identifying gaps, needs, and best practices in participatory science
+-   Contributed to organizational planning materials including mission statements and stakeholder engagement strategies
+-   Strengthened interdisciplinary collaboration and science-policy integration expertise
+
+**Field Work Experience** \| Fort Collins, CO\
+*ESS500 Coursework* \| August 2025
+
+-   Conducted vegetation transect sampling at CSU Mountain Campus to quantify plant distribution patterns
+-   Collected and processed field samples for vegetation composition and ecosystem health analysis
+-   Applied standardized ecological field sampling protocols ensuring data accuracy and research integrity
+
+------------------------------------------------------------------------
+
+## Relevant Graduate Coursework
+
+**Fall 2025**
+
+-   ESS 523A: Environmental Data Science Applications
+-   ESS 500: Integrated Ecosystem/Sustainability Analysis
+-   NR 319: Geographic Information Systems
+
+**Prior Coursework**
+
+-   ESS 330: Quantitative Reasoning in RStudio
+-   ESS 543: Global Climate Change
+-   ESS 312: Sustainability Science
+-   ESS 220/221/298: Ecosystem Science Research
+-   NR 400: Public Communication in Natural Resources
+-   ESS 400: Global Perspectives on Sustainability
+
+------------------------------------------------------------------------
+
+## Selected Tools & Technologies
+
+**Software & Platforms:** ArcGIS Pro, RStudio, Git/GitHub, DBeaver, Microsoft Office Suite, Adobe Creative Suite
+
+**R Packages:** tidyverse, ggplot2, ggthemes, RColorBrewer, viridis, ggdark, plotly, rstatix, httr, jsonlite, dataRetrieval, lterdatasampler, palmerpenguins
+
+**Data Sources:** USGS stream gages, LTER datasets, MODIS satellite data, National Land Cover Database, USGS 3DEP elevation data

@@ -1,0 +1,117 @@
+---
+title: "Projects & Coursework"
+format: html
+---
+
+## Fall 2025 Graduate Coursework
+
+### Environmental Data Science Data Applications (ESS 523A)
+
+This graduate-level course provided comprehensive training in environmental data science using R and open-source tools. Throughout the semester, I developed skills across data manipulation, statistical analysis, geospatial methods, and reproducible research workflows.
+
+**Core Skills Developed:**
+
+-   **Data Wrangling & Manipulation** - Mastered tidyverse functions including `mutate()`, `select()`, `filter()`, piping operators, `group_by()`, and `summarize()` for efficient data transformation
+-   **Data Visualization** - Created quality graphics using ggplot2 with advanced customization through packages like ggthemes, RColorBrewer, viridis, ggdark, and plotly for interactive visualizations
+-   **Statistical Analysis** - Conducted t-tests, ANOVA, correlation analyses, simple and multiple linear regression, and power analyses using tools like rstatix
+-   **Geospatial Analysis in R** - Performed spatial data analysis and created geospatial visualizations using R's spatial ecosystem
+-   **API Integration & Data Acquisition** - Retrieved data programmatically using httr, jsonlite, and dataRetrieval packages to access USGS and other environmental databases
+-   **Version Control & Collaboration** - Implemented Git and GitHub workflows including pull requests, debugging strategies, and collaborative coding practices
+-   **Reproducible Research** - Generated dynamic reports and documentation using R Markdown and Quarto
+
+**Datasets Analyzed:**
+
+Worked with diverse environmental datasets including Larimer County census data, USGS stream gages and streamflow records, vertebrate survey data, North Temperate Lakes LTER air temperature and ice cover time series, Palmer Penguins ecological data, and numerous other ecological and environmental datasets.
+
+**Technical Tools:**
+
+Extensive experience with R packages including tidyverse, palmerpenguins, rmarkdown, ggthemes, RColorBrewer, viridis, ggdark, plotly, lterdatasampler, rstatix, httr, jsonlite, and dataRetrieval, among many others.
+
+------------------------------------------------------------------------
+
+### Integrated Ecosystem/Sustainability Analysis (ESS 500)
+
+This professional development and research methods course focused on building essential skills for careers in ecosystem science and sustainability while exploring carbon management and field research techniques.
+
+**Professional Development Components:**
+
+-   Crafted effective elevator pitches and refined resume writing for environmental careers
+-   Developed networking strategies and built professional online presence
+-   Enhanced communication skills for academic and professional settings
+
+**Research & Field Experience:**
+
+-   **CSU Mountain Campus Field Work (August 2025)** - Participated in intensive field sampling at CSU's Mountain Campus, collecting ecological data and conducting on-site environmental measurements
+-   **Forest Carbon Sequestration** - Analyzed carbon storage dynamics in forest ecosystems and evaluated management strategies for climate mitigation
+-   **Carbon Management & Soil Monitoring** - Studied soil carbon monitoring techniques and carbon management practices for sustainable land use
+
+This course bridged academic training with practical career preparation while providing hands-on experience in field ecology and carbon science.
+
+------------------------------------------------------------------------
+
+### Geographic Information Systems (NR 319)
+
+Advanced coursework in geospatial analysis using ArcGIS Pro, focusing on practical applications for wildlife management and conservation planning.
+
+**Capstone Project: Wolverine Reintroduction Site Analysis**
+
+Conducted a comprehensive spatial analysis to identify suitable wolverine reintroduction sites in Grand County, Colorado. This project integrated multiple environmental criteria to support Colorado Parks and Wildlife's wolverine recovery efforts.
+
+**Analysis Components:**
+
+-   **Multi-Criteria Habitat Modeling** - Combined elevation (≥2,743m), persistent spring snowpack (April 15-May 14), and human disturbance buffers (≥1km from roads) to identify suitable habitat
+-   **Raster Analysis** - Created and combined binary suitability rasters using raster multiplication in ArcGIS Pro
+-   **Land Cover Analysis** - Extracted and analyzed land cover statistics using National Land Cover Database data
+
+**Key Findings:**
+
+-   Identified 463.66 km² of suitable wolverine habitat in Grand County (9.7% of total county area)
+-   Suitable habitat characterized by high-elevation ecosystems: 36.6% evergreen forest, 33.6% shrub/scrub, 15.3% grassland
+-   Average elevation of suitable areas: 3,425 meters (range: 2,744-4,121m)
+-   Minimal human development (\<0.1%) in suitable zones, indicating preserved wilderness character
+
+**Technical Skills:**
+
+-   Spatial data integration from multiple sources (USGS 3DEP elevation, MODIS-derived snowpack, USGS transportation, NLCD land cover)
+-   Buffer analysis and proximity modeling
+-   Raster calculation and overlay analysis
+-   Professional cartographic design and one-pager production
+
+This analysis provides a data-driven framework for wildlife managers to select specific release sites for Colorado's wolverine reintroduction program.
+
+**View the complete project:**
+
+<embed src="files/May - Final NR319 One Pager.pdf" type="application/pdf" width="100%" height="800px" />
+
+------------------------------------------------------------------------
+
+## Research Experience
+
+### Skills for Undergraduate Participation in Ecological Research (SUPER)
+
+*Fall 2024 - Spring 2025*
+
+**Analyzing Participation Patterns Across Citizen Science Projects on CitSci.org**
+
+Conducted data analysis research on user engagement patterns in citizen science, collaborating with Dr. Greg Newman, co-creator of the CitSci.org platform.
+
+**Research Activities:**
+
+-   Analyzed user participation patterns across diverse citizen science projects on the CitSci platform
+-   Performed statistical analysis of project types, user engagement metrics, and collaboration levels
+-   Developed hypotheses examining how project characteristics (tags, difficulty levels, recommended age groups) influence participation rates
+-   Collaborated with platform developers to improve data classification systems and enhance user experience
+-   Contributed to platform redesign efforts aimed at increasing project accessibility and engagement
+
+**Impact:**
+
+Research findings informed improvements to the CitSci.org user interface and project categorization system, making the platform more intuitive for future citizen science initiatives.
+
+**View the research poster:**
+
+![SUPER Research Poster](images/May%20-%20Final%20SUPER%20Poster.png)
+
+**Links:**
+
+-   [CitSci Platform](https://citsci.org/)
+-   [CSU SUPER Program](https://warnercnr.colostate.edu/ess/ess-undergraduate-degree-tracks/ess-undergraduate-internships-research/super-home/)

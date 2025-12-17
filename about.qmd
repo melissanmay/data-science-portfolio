@@ -2,8 +2,77 @@
 title: "About"
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+## How I Got Here
+
+I was born and raised in Fort Lauderdale, Florida, where I developed a deep love for the outdoors early on. My family took frequent trips to the Florida Keys, St. Augustine, and Orlando, and we spent lots of time fishing, boating, going to the beach, and just being outside. These experiences gave me an appreciation for nature long before I ever considered studying it.
+
+Growing up near the Florida Everglades also played a big role in shaping my perspective. My elementary school was built on filled-in swamp land, and we took field trips to learn about the Everglades' ecosystems and their significance to Florida. Even though I didn't realize it at the time, these experiences helped me understand the importance of biodiversity and conservation – ideas that would later influence my academic and career path.
+
+I didn't start out studying Ecosystem Science and Sustainability. Initially, I planned to major in Psychology, but I realized it just wasn't the right fit. I decided to explore Environmental Science and Political Science, and everything seemed to click. By the time I transferred to Colorado State University, I knew I wanted to focus my studies on the intersection of environmental policy and sustainability.
+
+Since moving to Colorado in 2018, I've only become more passionate about environmental issues. After completing my undergraduate degree, I continued at CSU to pursue a Master's degree in Ecosystem Science and Sustainability. My graduate coursework has deepened my technical skills in environmental data science, geospatial analysis, and ecosystem modeling, while my continued interest in policy and community engagement ensures I approach environmental challenges from multiple perspectives. I'm particularly interested in bridging the gap between scientific research and real-world application, ensuring that sustainability efforts are both data-driven and accessible to diverse communities.
+
+------------------------------------------------------------------------
+
+## My Interests & Passions
+
+Over the years, my interests have expanded to encompass the technical, social, and political dimensions of environmental science. Some key areas that drive my work include:
+
+**Environmental Data Science & Geospatial Analysis**
+
+My graduate studies have given me the technical skills to analyze complex environmental datasets and create meaningful visualizations that inform decision-making. I'm fascinated by how data science tools – from statistical modeling to GIS – can reveal patterns in ecosystems and help us understand environmental change. Whether it's analyzing wildlife habitat suitability, monitoring climate trends, or evaluating land use impacts, I believe that robust data analysis is essential for effective environmental management.
+
+**Biodiversity and Conservation**
+
+I've always been interested in ecosystems and the role that biodiversity plays in environmental health. Learning more about nutrient cycling and ecosystem resilience at CSU has deepened my understanding of how interconnected the world is. I'm particularly interested in how we can use spatial analysis and data-driven approaches to balance conservation with human land use, and how science can inform evidence-based environmental policy.
+
+**Environmental Justice and Policy**
+
+One of the most critical aspects of sustainability is the idea that it isn't just about science – it's also about people. Global climate change and resource management are deeply political issues, and the communities most affected by environmental challenges are often those with the least power to influence solutions. I'm passionate about ensuring that sustainability efforts are equitable and that marginalized communities always have a voice in climate solutions.
+
+**Community Engagement and Science Communication**
+
+Ecosystem Science isn't just about research – it's about making information accessible and involving people in creating tangible solutions. I love opportunities to bridge the gap between academic research and its real-world application, whether that's through outreach, education, or policy work. My experience analyzing citizen science participation patterns has reinforced my belief that inclusive, accessible science leads to better outcomes for both researchers and communities.
+
+------------------------------------------------------------------------
+
+## My Work & Experience
+
+**Technical Skills**
+
+My coursework has equipped me with advanced technical skills in environmental data science. Through courses in Environmental Data Science (ESS 523A), I've mastered R programming for data manipulation, statistical analysis, and visualization. I've worked with diverse environmental datasets from USGS stream gages to LTER ecological time series, developing skills in API integration, reproducible research workflows, and collaborative coding with Git and GitHub.
+
+In my GIS coursework (NR 319), I conducted a comprehensive spatial analysis of wolverine reintroduction sites in Colorado, integrating multiple environmental criteria to support wildlife management decisions. This project combined my technical GIS skills with my passion for conservation, demonstrating how geospatial analysis can inform real-world conservation efforts.
+
+**Natural Resource Ecology Laboratory**
+
+Since October 2023, I've worked at the Natural Resource Ecology Laboratory as Site Content Manager and Communications Coordinator. I've had the opportunity to interview esteemed scientists and create content that makes complex research accessible to diverse audiences. Through managing social media, developing website content, and collaborating with other CSU departments and statewide organizations, I've strengthened my science communication skills and reinforced my passion for bridging science and policy.
+
+**Research Experience**
+
+During my participation in CSU's SUPER program (Fall 2024 - Spring 2025), I conducted data analysis research on citizen science participation patterns in collaboration with Dr. Greg Newman, co-creator of CitSci.org. This experience deepened my understanding of how project design influences public engagement in science and contributed to platform improvements that make citizen science more accessible.
+
+**Field Experience**
+
+Through my Integrated Ecosystem/Sustainability Analysis course (ESS 500), I participated in field sampling at CSU's Mountain Campus, collecting ecological data and gaining hands-on experience with field research methods. This experience, combined with my data science skills, has given me a comprehensive toolkit for approaching environmental research from field collection through analysis and communication.
+
+------------------------------------------------------------------------
+
+## What's Next?
+
+As I progress through my career, I'm excited to continue building my skills at the intersection of environmental data science, policy, and community engagement. I'm particularly interested in opportunities that allow me to apply technical analysis skills to real-world conservation and sustainability challenges while ensuring that solutions are equitable and community-centered.
+
+The environmental challenges we face are complex, but they also present opportunities for interdisciplinary collaboration, innovation, and meaningful change. Whether through spatial analysis that informs wildlife conservation, data visualization that makes climate trends accessible, or research that centers community voices in environmental decision-making, I want my work to create tangible, positive impacts.
+
+There's still so much to learn, and that's what excites me the most. I'm looking forward to continuing to grow in this field, learning from others, and contributing to solutions that are both scientifically rigorous and socially just.
+
+------------------------------------------------------------------------
+
+## Want to Connect?
+
+If you're interested in chatting about environmental data science, sustainability, policy, or environmental justice, I'd love to connect! Feel free to reach out to me via email or connect with me on LinkedIn.
+
+-   [Email me](mailto:melmay@colostate.edu)
+-   [Connect with me on LinkedIn](https://www.linkedin.com/in/mel-may/)
